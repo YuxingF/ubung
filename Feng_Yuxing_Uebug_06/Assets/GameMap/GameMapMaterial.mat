@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameMapMaterial
+  m_Shader: {fileID: 4800000, guid: ca484fb3b892a6446b987410d5f73805, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_29FB8F99:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_496D14D3:
+        m_Texture: {fileID: 2800000, guid: 5122d268cdc6f1647863880bbdc22834, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_6A0D7C0D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E20DF330:
+        m_Texture: {fileID: 2800000, guid: e1c2691efaf5e8547a4cd4b057792c23, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture3D_D811F9F9:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GrassTexture:
+        m_Texture: {fileID: 2800000, guid: ee598c2c52940194c9777f69b2db64c0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4D2854A6: 0.07
+    - Vector1_4EDEA82A: 1.34
+    - Vector1_A92CD7A: 12.31
+    - Vector1_C31CC4A8: 0.26
+    - Vector1_CA1BDE26: 23.88
+    - Vector1_FE670CD8: 2.27
+    m_Colors:
+    - Color_750BD0CD: {r: 0.4528302, g: 0.43964505, b: 0.39943042, a: 0}
+    - Color_8D226D51: {r: 0.509434, g: 0.13342097, b: 0.01201495, a: 0}
+    - Vector2_152303D5: {r: 30, g: 30, b: 1, a: 1}
+    - Vector2_5DCCD16: {r: 20, g: 20, b: 1, a: 1}
+    - Vector2_F572864E: {r: 20, g: 20, b: 5, a: 1}
+    - _SandColor1: {r: 0, g: 0, b: 0, a: 0}
+    - _SandColor1_1: {r: 0.7075471, g: 0.5202122, b: 0.29703626, a: 0}
